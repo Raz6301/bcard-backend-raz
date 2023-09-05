@@ -1,0 +1,6 @@
+{
+  "NODE_ENV": "production",
+  "PORT": 9191,
+  "DB_NAME": "my_db_name",
+  "DB_PASSWORD": "my_db_password"
+}
